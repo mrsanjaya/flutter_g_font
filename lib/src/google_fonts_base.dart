@@ -26,7 +26,7 @@ import 'file_io.dart' // Stubbed implementation by default.
 import 'google_fonts_descriptor.dart';
 import 'google_fonts_family_with_variant.dart';
 import 'google_fonts_variant.dart';
-import 'dart:typed_data'
+import 'dart:typed_data';
 // Keep track of the fonts that are loaded or currently loading in FontLoader
 // for the life of the app instance. Once a font is attempted to load, it does
 // not need to be attempted to load again, unless the attempted load resulted
